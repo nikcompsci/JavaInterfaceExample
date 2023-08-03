@@ -1,7 +1,7 @@
 package com.example.usingInterface;
 
 public interface Clipper {
- //Whistling Capability
+ //Clipper Capability
   public abstract String buzzer();
 
 }
