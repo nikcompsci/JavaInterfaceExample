@@ -1,8 +1,10 @@
 # Java Interface Example
 
-This project demonstrates the use of interfaces and polymorphism in Java.
+A simple, clear demonstration of how **Java interfaces** work, including how classes implement interfaces and how polymorphism allows different objects to be treated through a shared contract. This project is designed as a lightweight reference for beginners learning OOP principles in Java.
 
+## Concepts Demonstrated
 
-
-Future Work:
-The original goal of this project was to implement the same model across Java, Python, and C# to demonstrate how interface-driven architecture translates across languages.
+- **Interfaces** — defining a contract for classes  
+- **Class implementation** — using `implements` to fulfill interface requirements  
+- **Polymorphism** — treating different objects through a common interface type  
+- **Method overriding** — providing concrete behavior in implementing classes  
