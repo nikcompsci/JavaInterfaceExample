@@ -1,6 +1,6 @@
 # Java Interface Example
 
-A simple, clear demonstration of how **Java interfaces** work, including how classes implement interfaces and how polymorphism allows different objects to be treated through a shared contract. This project is designed as a lightweight reference for beginners learning OOP principles in Java.
+A simple, clear demonstration of how **Java interfaces** work, including how classes implement interfaces and how polymorphism allows different objects to be treated through a shared contract. This project is designed as a reference for beginners learning OOP principles in Java.
 
 ## Concepts Demonstrated
 
