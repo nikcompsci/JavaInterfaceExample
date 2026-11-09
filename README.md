@@ -4,10 +4,11 @@ A simple, clear demonstration of how **Java interfaces** work, including how cla
 
 ## Concepts Demonstrated
 
-- **Interfaces** — defining a contract for classes  
-- **Class implementation** — using `implements` to fulfill interface requirements  
-- **Polymorphism** — treating different objects through a common interface type  
-- **Method overriding** — providing concrete behavior in implementing classes  
+- **Abstraction** — defining what an object can do without specifying how
+- **Interfaces** — establishing shared behaviors for different classes
+- **Inheritance** — reusing and extending superclass functionality
+- **Polymorphism** — allowing different objects to share common behaviors
+- **Method overriding** — customizing inherited methods
 
 ## Output
 
