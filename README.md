@@ -8,3 +8,7 @@ A simple, clear demonstration of how **Java interfaces** work, including how cla
 - **Class implementation** — using `implements` to fulfill interface requirements  
 - **Polymorphism** — treating different objects through a common interface type  
 - **Method overriding** — providing concrete behavior in implementing classes  
+
+## Output
+
+Output.png
