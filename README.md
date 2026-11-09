@@ -2,6 +2,7 @@
 
 A simple, clear demonstration of how **Java interfaces** work, including how classes implement interfaces and how polymorphism allows different objects to be treated through a shared contract. This project is designed as a reference for beginners learning OOP principles in Java.
 
+
 ## Concepts Demonstrated
 
 - **Abstraction** — defining what an object can do without specifying how
@@ -9,6 +10,7 @@ A simple, clear demonstration of how **Java interfaces** work, including how cla
 - **Inheritance** — reusing and extending superclass functionality
 - **Polymorphism** — allowing different objects to share common behaviors
 - **Method overriding** — customizing inherited methods
+
 
 ## Output
 
