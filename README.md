@@ -11,4 +11,4 @@ A simple, clear demonstration of how **Java interfaces** work, including how cla
 
 ## Output
 
-Output.png
+./Output.png
